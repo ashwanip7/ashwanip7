@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwani
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning to build wesites using MERN stack
+- 🌱 I’m working as a React Developer
 - 📫 How to reach me ashwaniprajapati7@gmail.com
 
 <!---
